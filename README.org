@@ -1,0 +1,6 @@
+#+TITLE: travelling-salesman-haskell
+
+This is a simple brute force approach to the traveling salsman problem
+in Haskell. I did it just for fun, and to learn haskell a bit. Still
+want to get it working with =foldl=, but have not figured that out
+yet.
