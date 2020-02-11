@@ -2,16 +2,16 @@ name:                travelling-salesman-haskell
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/travelling-salesman-haskell#readme
-license:             BSD3
+homepage:            https://github.com/jakevossen5/traveling-salesman-haskell
+license:             MIT
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2020 Author name here
+author:              Jake Vossen
+maintainer:          jake@vossen.dev
+copyright:           2020 Jake Vossen
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
-extra-source-files:  README.md
+extra-source-files:  README.org
 
 executable travelling-salesman-haskell
   hs-source-dirs:      src
